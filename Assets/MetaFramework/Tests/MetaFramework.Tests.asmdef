@@ -1,0 +1,10 @@
+{
+  "name": "MetaFramework.Tests",
+  "rootNamespace": "MetaFramework.Unity.Tests",
+  "references": [ "MetaFramework.Runtime", "UniTask" ],
+  "includePlatforms": [ "Editor" ],
+  "excludePlatforms": [],
+  "optionalUnityReferences": [ "TestAssemblies" ],
+  "defineConstraints": [ "UNITY_INCLUDE_TESTS" ],
+  "autoReferenced": false
+}

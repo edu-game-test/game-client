@@ -1,0 +1,6 @@
+{
+  "name": "Match3",
+  "rootNamespace": "Match3",
+  "references": [ "MetaFramework.Runtime", "UniTask" ],
+  "autoReferenced": true
+}

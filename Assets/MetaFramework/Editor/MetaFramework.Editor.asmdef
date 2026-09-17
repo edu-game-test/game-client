@@ -1,0 +1,8 @@
+{
+  "name": "MetaFramework.Editor",
+  "rootNamespace": "MetaFramework.Unity.Editor",
+  "references": [ "MetaFramework.Runtime" ],
+  "includePlatforms": [ "Editor" ],
+  "excludePlatforms": [],
+  "autoReferenced": true
+}

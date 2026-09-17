@@ -30,3 +30,4 @@ AssetsExportedObj/
 # NuGet
 packages/
 *.nupkg
+Logs/
